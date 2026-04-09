@@ -6,6 +6,17 @@
 
 ---
 
+## Video explanations
+
+[Marko Pasternak] (#https://youtu.be/oazqTDouZgw)
+
+[Andrii Kulbaba] (#https://youtu.be/JVAYNW9Tp7A?si=cT0A8HeXPGJ-eHVO)
+
+[Nestor Leyko] (#https://youtu.be/pd_xpwEbOXQ)
+
+[Denys Marchenko] (#https://youtu.be/V6JO1SLM50c?si=GsLyUgEOPpOJx7cF)
+
+
 ## Abstract
 
 This project applies Principal Component Analysis (PCA) to the problem of detecting First Person View (FPV) drones in images. By constructing an "Eigendrone" subspace from a set of training images, the system projects unseen test images into this lower-dimensional space and classifies them based on Euclidean distance. The entire pipeline is implemented from scratch using core linear algebra operations — eigenvalue decomposition, covariance computation, and orthogonal projection — without reliance on high-level machine learning frameworks.
