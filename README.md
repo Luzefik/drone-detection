@@ -67,9 +67,9 @@ $$\mu = \frac{1}{n} \sum_{i=1}^{n} x_i \tag{2}$$
 
 $$\bar{X} = X - \mu \tag{3}$$
 
-### Covariance Matrix
+### Gram Matrix
 
-The covariance matrix is defined as:
+The Gram matrix is defined as:
 
 $$C = \frac{1}{n} \bar{X}\bar{X}^T \in \mathbb{R}^{D \times D} \tag{4}$$
 
