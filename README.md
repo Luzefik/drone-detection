@@ -57,7 +57,7 @@ This approach directly applies the following linear algebra concepts: matrix dec
 
 Each RGB image is converted to grayscale and flattened from an N × M matrix into a column vector of dimension D = N·M. The training set is assembled into a data matrix:
 
-$$X = [x_1, x_2, \ldots, x_n] \in \mathbb{R}^{D \times n} \tag{1}$$
+$X = [x_1, x_2, \ldots, x_n] \in \mathbb{R}^{D \times n} \tag{1}$
 
 ### Data Centering
 
