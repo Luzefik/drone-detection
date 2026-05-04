@@ -97,7 +97,7 @@ $$Z = Y^T \bar{X} \tag{8}$$
 
 A test image is centered and projected:
 
-$$Z_{\text{test}} = Y^T(x_{\text{test}} - \mu) \tag{9}$$
+$$Z_{\text{test}} = Y^T(x_{\text{test}} - \mu) \tag{9}|$$
 
 Classification is performed by computing the minimum Euclidean distance to training projections:
 
